@@ -1,0 +1,10 @@
+
+***** SPRING CORE PROJECT *****
+
+(1) Spring core project with XML configuration.
+(2) Setter injection with XML.
+(3) Construction Injection with XML.
+(4) Field Injection through annotation (Autowired).
+(5) Bean Life Cycle with inti and destroy method through XML.
+(6) Reading data from property file (XML configuration)
+(7) Multi-lingual support.
